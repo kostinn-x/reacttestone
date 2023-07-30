@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reacttestone/static/css/main.ae4f65aa.css",
+    "main.js": "/reacttestone/static/js/main.ab2a9087.js",
+    "static/js/787.28cb0dcd.chunk.js": "/reacttestone/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/reacttestone/index.html",
+    "main.ae4f65aa.css.map": "/reacttestone/static/css/main.ae4f65aa.css.map",
+    "main.ab2a9087.js.map": "/reacttestone/static/js/main.ab2a9087.js.map",
+    "787.28cb0dcd.chunk.js.map": "/reacttestone/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae4f65aa.css",
+    "static/js/main.ab2a9087.js"
+  ]
+}
